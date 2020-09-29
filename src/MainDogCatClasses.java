@@ -6,7 +6,7 @@ import java.util.Scanner;
  * 29/09/2020
  */
 
-public class Main {
+public class MainDogCatClasses {
 
     public static void main(String[] args) {
         Dog firstDog = new Dog("Luna", "Labrador", "black", 7, true);
